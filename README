@@ -1,0 +1,4 @@
+Springboot是最简单的使用Spring的方式，而MongoDB是最流行的NoSQL数据库。两者在分布式、微服务架构中使用率极高，本文将用实例介绍如何在Springboot中整合MongoDB的两种方法：MongoRepository和MongoTemplate。
+
+csdn博客地址：
+https://blog.csdn.net/u010797364/article/details/120484002

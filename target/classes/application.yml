@@ -1,0 +1,9 @@
+# 开发环境配置
+server:
+  # 服务器的HTTP端口，默认为8080
+  port: 8080
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://lgn:123456@192.168.8.150:27017/runoob
